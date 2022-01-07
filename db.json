@@ -8,17 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "products": [
-    {
-      "id": "12416353",
-      "name": "LEGEND X SONIC",
-      "price": 49.99,
-      "description":
-        "After a year of trial and error with the SONIC® team (and A TON of R&D trips to America’s Favorite Drive-In) we are so stoked to deliver the best, and only official SONIC® Cherry Limeade and SONIC® Ocean Water™ pre-workout experiences.",
-      "image":
-        "https://cdn.shopify.com/s/files/1/2060/6331/products/LegendV2SonicOW.png?v=1624462174"
-    },
-  ],
   "profile": {
     "name": "typicode"
   }
